@@ -46,7 +46,7 @@ nav .navbar button{
     font-size:25px;
     font-weight:600;
     text-decoration: none;
-    margin-right: 60px;
+    margin-right: 150px;
 }
 
 nav .navbar .menu{
@@ -65,4 +65,28 @@ margin:0 15px;
 .dropdown{
     bottom: 10px;
     left: 5px;
+}
+
+#Home{
+    background-image: url(https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 2000px 1900px;
+    text align:center;
+    width:100%;
+    line-height:10;
+    display:center;
+    display:inline-block;
+    padding-top: 0px;
+    padding-left: 0px;
+    align-items: center;
+    
+}
+
+.textprime{
+    color: azure;
+    font-size:80px;
+    align-items: center;
+    margin-left:350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
